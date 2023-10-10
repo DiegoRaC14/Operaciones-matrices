@@ -52,7 +52,7 @@ int main() {
     	printf("1: Suma de dos matrices aleatorias\n");
     	printf("2: Resta de dos matrices aleatorias\n");
     	printf("3: Multiplicación de dos matrices aleatorias\n");
-    	printf("5: Terminar programa\n\n");
+    	printf("4: Terminar programa\n\n");
 		
 		printf("\033[0;36m");//Color cyan 
 		printf("Ingrese el numero para realizar de las siguientes opciones: ");
